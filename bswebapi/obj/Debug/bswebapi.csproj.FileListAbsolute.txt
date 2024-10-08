@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\bswebapi.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\bswebapi.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bswebapi\bswebapi\obj\Debug\bswebapi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bswebapi\bswebapi\obj\Debug\bswebapi.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bswebapi\bswebapi\obj\Debug\bswebapi.pdb

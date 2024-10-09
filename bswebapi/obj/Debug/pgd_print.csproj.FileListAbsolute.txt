@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\pgd_print.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\pgd_print.pdb
+C:\Users\Administrator\Desktop\pgprint\bswebapi\obj\Debug\pgd_print.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\pgprint\bswebapi\obj\Debug\pgd_print.dll
+C:\Users\Administrator\Desktop\pgprint\bswebapi\obj\Debug\pgd_print.pdb
